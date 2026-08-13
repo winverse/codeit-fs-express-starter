@@ -2,10 +2,15 @@
 
 `자바스크립트 백엔드 개발 시작하기` 과정에서 사용하는 누적 교재 프로젝트의 시작본입니다.
 
-## 진행 방법
+## 시작 상태
 
-1. `nvm install`과 `nvm use`로 `.nvmrc`에 적힌 Node.js 버전을 사용합니다.
-2. 강의자료의 `Express 프로젝트 기본 설정`부터 순서대로 코드를 작성합니다.
-3. 수업 중에는 다른 Git 브랜치나 별도 세션 폴더로 이동하지 않고 `main` 브랜치에서 계속 작업합니다.
+아직 패키지와 애플리케이션 코드가 없는 상태입니다. 강의자료의 `Express 프로젝트 기본 설정`부터 시작해 하나의 프로젝트를 순서대로 완성합니다.
 
-첫 실습에서 `package.json`, 개발 도구 설정과 `src/server.js`를 직접 만듭니다.
+## 시작하기
+
+```bash
+git clone https://github.com/winverse/codeit-fs-javascript-backend-express-starter.git
+cd codeit-fs-javascript-backend-express-starter
+```
+
+첫 단원에서 프로젝트 루트의 `package.json`, `.prettierrc`, `eslint.config.js`와 `src/server.js`를 직접 만듭니다. 패키지를 설치하고 실행하는 명령도 해당 단원에서 준비하므로, 복제 직후에는 별도의 설치·실행 명령이 없습니다.
