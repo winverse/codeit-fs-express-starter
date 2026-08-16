@@ -9,8 +9,8 @@
 ## 시작하기
 
 ```bash
-git clone https://github.com/winverse/codeit-fs-javascript-backend-express-starter.git
-cd codeit-fs-javascript-backend-express-starter
+git clone https://github.com/winverse/codeit-fs-express-starter.git
+cd codeit-fs-express-starter
 ```
 
 첫 단원에서 프로젝트 루트의 `package.json`, `.prettierrc`, `eslint.config.js`와 `src/server.js`를 직접 만듭니다. 패키지를 설치하고 실행하는 명령도 해당 단원에서 준비하므로, 복제 직후에는 별도의 설치·실행 명령이 없습니다.
